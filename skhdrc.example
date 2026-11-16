@@ -1,0 +1,6 @@
+# SnapSolve hotkeys for skhd (append to ~/.config/skhd/skhdrc, then: skhd --reload)
+alt + shift - a : $HOME/snapsolve/.venv/bin/python $HOME/snapsolve/snapsolve.py
+alt + shift - x : $HOME/snapsolve/.venv/bin/python $HOME/snapsolve/snapsolve.py --select
+alt + shift - d : $HOME/snapsolve/.venv/bin/python $HOME/snapsolve/snapsolve.py --add
+alt + shift - c : $HOME/snapsolve/.venv/bin/python $HOME/snapsolve/snapsolve.py --clear
+alt + shift - z : $HOME/snapsolve/.venv/bin/python $HOME/snapsolve/snapsolve.py --close
